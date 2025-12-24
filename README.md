@@ -55,25 +55,23 @@ task-dashboard/
 
 ├── src/
 
-│   ├── app/  
+│   ├── app/  # Redux store
 
+│   ├── components/   # Reusable UI components
 
+│   ├── features/  # Redux Slices
 
-│   ├── components/   
+│   ├── pages/   # Pages (Dashboard)
 
-│   ├── features/  
+│   ├── _tests_/  # Component tests
 
-│   ├── pages/   
-
-│   ├── _tests_/  
-
-│   ├── test/   
+│   ├── test/   # Test Setup
 
 │   └── main.jsx
 
 │
 
-├── .github/workflows/   
+├── .github/workflows/   # CI
 
 ├── public/
 
