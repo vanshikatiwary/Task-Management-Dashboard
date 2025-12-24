@@ -2,7 +2,7 @@
 
 A modern, responsive Task Management Dashboard built using React.js, Redux Toolkit, and Tailwind CSS, featuring task creation, editing, filtering, search, dark/light mode, and component testing with React Testing Library + Vitest.
 
-# 🚀 Features #
+## 🚀 Features 
 
 ➕ Add, edit, delete tasks
 
