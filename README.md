@@ -128,11 +128,11 @@ Dashboard heading render test
 
 ## 📱 Responsive Design
 
-- Mobile-first layout
+* Mobile-first layout
 
-- Responsive padding, spacing, and typography
+* Responsive padding, spacing, and typography
 
-- Optimized for desktop, tablet, and mobile screens
+* Optimized for desktop, tablet, and mobile screens
 
 ## 📌 Technical Requirements Fulfilled
 
