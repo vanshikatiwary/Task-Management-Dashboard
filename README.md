@@ -20,8 +20,8 @@ A modern, responsive Task Management Dashboard built using React.js, Redux Toolk
 
 ⚡ Fast build setup with Vite
 
-🛠️ Tech Stack
-Frontend
+## 🛠️ Tech Stack
+## Frontend
 
 React.js (Functional Components + Hooks)
 
@@ -47,7 +47,7 @@ Git
 
 GitHub
 
-📂 Project Structure
+# 📂 Project Structure
 
 task-dashboard/
 │
@@ -69,7 +69,7 @@ task-dashboard/
 └── README.md
 
 
-⚙️ Setup Instructions
+## ⚙️ Setup Instructions
 1️⃣ Clone the Repository
 
 git clone https://github.com/<your-username>/task-dashboard.git
@@ -110,7 +110,7 @@ Run tests once
 npx vitest run
 
 
-✔️ Example tested component:
+## ✔️ Example tested component:
 
 Dashboard heading render test
 
@@ -118,7 +118,7 @@ Dashboard heading render test
 ✓ src/_tests_/Dashboard.test.jsx (1 test)
 ✓ renders Task Management Dashboard heading
 
-🌙 Dark Mode Support
+## 🌙 Dark Mode Support
 
 Toggle available in UI
 
@@ -134,7 +134,7 @@ Responsive padding, spacing, and typography
 
 Optimized for desktop, tablet, and mobile screens
 
-📌 Technical Requirements Fulfilled
+## 📌 Technical Requirements Fulfilled
 
 ✔️ React.js
 ✔️ Redux Toolkit
