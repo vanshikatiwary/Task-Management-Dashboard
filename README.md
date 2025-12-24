@@ -50,22 +50,41 @@ A modern, responsive Task Management Dashboard built using React.js, Redux Toolk
 # 📂 Project Structure
 
 task-dashboard/
+
 │
+
 ├── src/
-│   ├── app/              # Redux store
-│   ├── components/       # Reusable UI components
-│   ├── features/         # Redux slices
-│   ├── pages/            # Pages (Dashboard)
-│   ├── _tests_/          # Component tests
-│   ├── test/             # Test setup
+
+│   ├── app/  
+
+
+
+│   ├── components/   
+
+│   ├── features/  
+
+│   ├── pages/   
+
+│   ├── _tests_/  
+
+│   ├── test/   
+
 │   └── main.jsx
+
 │
-├── .github/workflows/    # CI (optional)
+
+├── .github/workflows/   
+
 ├── public/
+
 ├── .gitignore
+
 ├── package.json
+
 ├── tailwind.config.js
+
 ├── vite.config.js
+
 └── README.md
 
 
